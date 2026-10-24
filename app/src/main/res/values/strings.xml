@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DI Focus</string>
+    <string name="accessibility_service_description">Блокирует развлекательные приложения в запланированные дни, пока вы не выполните свои задачи в DI Focus.</string>
+</resources>
